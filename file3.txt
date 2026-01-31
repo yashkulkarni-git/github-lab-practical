@@ -1,0 +1,1 @@
+GitHub offers robust features for version control and collaboration that enable teams to work on code simultaneously through two primary models: the shared repository model and the fork and pull model. Key tools include branches, pull requests, issues, and code reviews.
