@@ -1,0 +1,2 @@
+Git branching is a core feature of the version control system that allows developers to diverge from the main line of development to work on new features, bug fixes, or experiments in an isolated environment without affecting the main codebase.
+Branches in Git are lightweight pointers to a specific commit (a snapshot of your changes), making creating and switching between them nearly instantaneous
